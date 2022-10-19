@@ -1,0 +1,58 @@
+# Site settings
+title: 코드숨 기술블로그
+url: "https://codesoom.github.io"
+baseurl: ""
+description: >
+    코드숨 기술블로그
+
+# My information
+email: codesoom@gmail.com
+author: 코드숨
+profile: 유물론자
+github_username: codesoom
+comment-support: utterances
+
+# Build settings
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+permalink: /blog/:year/:month/:day/:title/
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+paginate: 10
+paginator_path: "/blog"
+paginate_path: "/blog/page:num/"
+
+# Collections
+collections:
+    wiki:
+        output: true
+        permalink: /:collection/:path/
+
+# Comment Service
+disqus:
+  id: codesoom
+  shortname: codesoom
+utterances:
+  repo: codesoom/codesoom.github.io
+  issue-term: url
+  label: Comment
+  branch: main
+
+google_analytics:
+
+blame: "https://github.com/codesoom/codesoom.github.io/blame/master/_wiki"
+edit: "https://github.com/codesoom/codesoom.github.io/edit/master/_wiki"
+issue: "https://github.com/codesoom/codesoom.github.io/issues/new"
+
+timezone: "Asia/Seoul"
+
+# https://kramdown.gettalong.org/rdoc/Kramdown/Options.html - smart_quotes
+kramdown:
+    smart_quotes: ["apos", "apos", "quot", "quot"]
