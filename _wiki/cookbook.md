@@ -2,8 +2,8 @@
 layout  : category
 title   : 코드숨 Cookbook
 summary : 
-date    : 2022-10-6 00:00:00 +0900
-updated : 2022-10-16 00:00:00 +0900
+date    : 2022-10-06 00:00:00 +0900
+updated : 2022-10-06 00:00:00 +0900
 tag     : 
 toc     : true
 public  : true

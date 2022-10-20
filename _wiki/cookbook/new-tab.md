@@ -2,7 +2,7 @@
 layout  : wiki
 title   : 새탭을 여는 E2E테스트를 작성할 때 Tab이 없다고 하는 경우
 date    : 2022-10-06 11:08:00 +0900
-updated : 2022-10-16 18:49:00 +0900
+updated : 2022-10-06 11:08:00 +0900
 author  : 김현지
 tag     : 
 toc     : true
