@@ -1,0 +1,11 @@
+{
+ "type": "wiki",
+ "title": "코드숨 Cookbook",
+ "summary": "",
+ "parent": "index",
+ "url": "/wiki/cookbook",
+ "updated": "2022-10-16 00:00:00 +0900",
+ "children": [
+  "cookbook/new-tab"
+ ]
+}
