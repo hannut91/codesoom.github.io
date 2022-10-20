@@ -47,8 +47,8 @@ utterances:
 
 google_analytics:
 
-blame: "https://github.com/codesoom/codesoom.github.io/blame/master/_wiki"
-edit: "https://github.com/codesoom/codesoom.github.io/edit/master/_wiki"
+blame: "https://github.com/codesoom/codesoom.github.io/blame/main/_wiki"
+edit: "https://github.com/codesoom/codesoom.github.io/edit/main/_wiki"
 issue: "https://github.com/codesoom/codesoom.github.io/issues/new"
 
 timezone: "Asia/Seoul"

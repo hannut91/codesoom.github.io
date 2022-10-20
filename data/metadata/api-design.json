@@ -4,10 +4,11 @@
  "summary": "",
  "parent": "index",
  "url": "/wiki/api-design",
- "updated": "2022-10-19 18:14:00 +0900",
+ "updated": "2022-10-17 18:14:00 +0900",
  "children": [
   "api-design/01",
   "api-design/02",
-  "api-design/03"
+  "api-design/03",
+  "api-design/04"
  ]
 }
