@@ -55,8 +55,6 @@ function main() {
                 };
         });
 
-        console.log('pageMap: ', pageMap);
-        console.log('dataList: ', dataList);
     dataList.forEach(page => {
         if (page.parent) {
 
@@ -67,9 +65,6 @@ function main() {
             }
         }
     });
-
-    console.log('dataList: ', dataList);
-    console.log('pageMap: ', pageMap);
 
     saveTagFiles(tagMap, pageMap);
     saveTagCount(tagMap);
