@@ -32,6 +32,15 @@ $ bundle install
 $ cp tool/pre-commit ./git/hooks
 ```
 
+### 노드 모듈 설치하기
+
+메타 데이터 생성을 위해서 `generateData.js`를 실행해야 합니다. 이를 실행하기
+위해서 `yamljs` 의존성을 설치해야 합니다.
+
+```bash
+$ npm ci
+```
+
 ## 실행하기
 
 ```bash
