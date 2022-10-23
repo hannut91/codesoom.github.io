@@ -3,6 +3,7 @@ layout  : wiki
 title   : React-Query를 왜 사용하나요?
 date    : 2022-10-23 11:23:00 +0900
 updated : 2022-10-23 11:23:00 +0900
+author  : 안예린
 tag     : 
 toc     : true
 public  : true
