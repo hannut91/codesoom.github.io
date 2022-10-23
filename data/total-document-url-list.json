@@ -13,5 +13,7 @@
  "/wiki/cookbook/no-valid-crumb",
  "/wiki/cookbook/unexpected-token-export",
  "/wiki/index",
+ "/wiki/react",
+ "/wiki/react/react-query",
  "/wiki/root-index"
 ]
