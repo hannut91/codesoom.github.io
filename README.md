@@ -29,7 +29,7 @@ $ bundle install
 자동으로 될 수 있도록 Git Hooks를 추가해야 합니다.
 
 ```bash
-$ cp tool/pre-commit ./git/hooks
+$ cp tool/pre-commit ./.git/hooks
 ```
 
 ### 노드 모듈 설치하기
@@ -38,7 +38,7 @@ $ cp tool/pre-commit ./git/hooks
 위해서 `yamljs` 의존성을 설치해야 합니다.
 
 ```bash
-$ npm ci
+$ npm install
 ```
 
 ## 실행하기
