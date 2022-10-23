@@ -11,6 +11,7 @@
   "cookbook/find-by-id",
   "cookbook/new-tab",
   "cookbook/no-valid-crumb",
+  "cookbook/npm-ci",
   "cookbook/unexpected-token-export"
  ]
 }
