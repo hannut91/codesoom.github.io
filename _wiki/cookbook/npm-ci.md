@@ -22,7 +22,7 @@ latex   : false
 `npm install` 커맨드는 `package.json` 내의 dependencies와 devDependencies를 기준으로
 패키지 파일을 설치하게 되어있는데 `pacakge.json`은 버전 정보를 저장할 때,
 version ragne로 명시되어 있습니다.
-- `"react: "17.0.1"`
+- `"react": "^17.0.1"`
 
 위와 같이 범위로 버전을 표기하다 보니, 협업하는 과정에서 `npm install`을 할 때마다, 버전 정보가 변경되어
 `pacakge.lock.json` 파일 또한 변경되는 것이었습니다.
@@ -33,9 +33,11 @@ version ragne로 명시되어 있습니다.
 `preinstall`은 말 그대로 `install`을 하기 전, 실행하는 것을 의미합니다.
 `preinstall`을 적용하는 방법은 다음과 같습니다.
 ```json
-"scripts": {
-  "preinstall": "node tools/preinstall-script.js"
+{
+  "scripts": {
+    "preinstall": "node tools/preinstall-script.js"
   }
+}
 ```
 pacakge.json에 있는 `scripts`에 `preinstall`을 추가한 뒤,
 루트 폴더 아래에 tools라는 폴더를 생성 후 `preinstall-script.js`를 생성합니다.
