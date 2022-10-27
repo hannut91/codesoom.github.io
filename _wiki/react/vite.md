@@ -50,5 +50,5 @@ vite의 사전 번들링 기능은 Esbuild를 사용하고 있어 기존의 번�
 #### source code
 vite는 Native ESM을 이용해서 소스 코드를 제공합니다. 브라우저가 곧 번들러이기 때문에 특정 모듈에 대한 소스 코드를 요청하면 이를 전달합니다. 따라서 조건부 동적 import 이후의 코드는 현재 화면에서 실제로 사용이 되어야만 처리가 됩니다.
 
-### 참고
+## 참고
 - [Vite를 사용해야 하는 이유](https://vitejs-kr.github.io/guide/why.html)
