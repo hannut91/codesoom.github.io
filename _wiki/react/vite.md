@@ -2,7 +2,7 @@
 layout  : wiki
 title   : vite를 선택한 이유
 date    : 2022-10-24 11:23:00 +0900
-updated : 2022-10-24 11:23:00 +0900
+updated : 2022-10-30 11:23:00 +0900
 author  : 김현지, 양민석, 우종혁
 tag     : 
 toc     : true
@@ -16,7 +16,7 @@ latex   : false
 
 관리자 페이지 프로젝트를 시작하면서 초기 세팅을 진행해야 했습니다.
 리액트 프로젝트를 생성하기 위한 방법에 대해 찾아보았고
-`CRA`, `Webpack`, `Vite` 들을
+`CRA`, `Webpack`, `Vite`, `Rollup.js`, `Parcel.js` 들을
 사용해 프로젝트를 생성할 수 있다는 것을 알았습니다.
 그중 왜 저희가 `Vite`를 선택한 이유를 설명하겠습니다.
 
@@ -28,6 +28,13 @@ latex   : false
 - 개발 서버 시작할 때, 모든 모듈을 합치기 때문에 느리다.
 - 간단한 작업도 플러그인이 필요하다.
 - 번들 사이즈가 너무 크다.
+
+### Rollup.js를 선택하지 않은 이유
+- 웹팩에 대한 최소한의 대안이며 소규모 프로젝트에 적합하다.
+- 규모가 커질수록 설정이 복잡해진다.
+
+### Parcel을 선택하지 않은 이유
+- 소규모 프로젝트에 적합한 번들러이다.
 
 ### Vite를 선택한 이유
 - [dependencies](#dependencies) 그리고 [source code](#source-code) 두 가지 카테고리로 나누어 개발 서버를 시작함으로써 서버 구동 속도가 빠릅니다.
@@ -52,3 +59,5 @@ vite는 Native ESM을 이용해서 소스 코드를 제공합니다. 브라우�
 
 ## 참고
 - [Vite를 사용해야 하는 이유](https://vitejs-kr.github.io/guide/why.html)
+- [webpack vs. babel vs. rollup vs. gulp vs. parcel vs. vite](https://ritza.co/articles/gen-articles/webpack-vs-babel-vs-rollup-vs-gulp-vs-parcel-vs-vite/)
+- [Parcel vs. WebPack 2021](https://levelup.gitconnected.com/parcel-vs-webpack-2021-64c347bcb31)
