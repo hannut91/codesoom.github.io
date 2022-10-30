@@ -9,6 +9,7 @@
   "cookbook/create-root",
   "cookbook/css-import",
   "cookbook/find-by-id",
+  "cookbook/how-to-modify-column-attribute-safely",
   "cookbook/new-tab",
   "cookbook/no-valid-crumb",
   "cookbook/npm-ci",
