@@ -1,0 +1,11 @@
+{
+ "type": "wiki",
+ "title": "JavaScript",
+ "summary": "",
+ "parent": "index",
+ "url": "/wiki/javascript",
+ "updated": "2022-11-06 00:00:00 +0900",
+ "children": [
+  "javascript/module"
+ ]
+}
