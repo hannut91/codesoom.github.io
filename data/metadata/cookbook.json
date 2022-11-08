@@ -13,6 +13,7 @@
   "cookbook/new-tab",
   "cookbook/no-valid-crumb",
   "cookbook/npm-ci",
+  "cookbook/strict-mode",
   "cookbook/unexpected-token-export"
  ]
 }
