@@ -1,0 +1,8 @@
+{
+ "type": "wiki",
+ "title": "Gradle 변경사항 로드 시 발생하는 ProjectConfigurationException",
+ "parent": "cookbook",
+ "url": "/wiki/cookbook/project-configuration-exception-when-load-gradle-changes",
+ "updated": "2022-12-20 11:33:00 +0900",
+ "children": []
+}
