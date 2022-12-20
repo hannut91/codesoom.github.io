@@ -7,6 +7,7 @@
  "updated": "2022-10-23 11:14:00 +0900",
  "children": [
   "react/react-query",
+  "react/suspense",
   "react/vite"
  ]
 }
