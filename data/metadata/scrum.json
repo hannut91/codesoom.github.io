@@ -1,0 +1,15 @@
+{
+ "type": "wiki",
+ "title": "스크럼",
+ "summary": "",
+ "parent": "index",
+ "url": "/wiki/scrum",
+ "updated": "2022-12-20 17:46:00 +0900",
+ "children": [
+  "scrum/01",
+  "scrum/02",
+  "scrum/03",
+  "scrum/04",
+  "scrum/05"
+ ]
+}
