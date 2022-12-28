@@ -25,6 +25,7 @@
  "/wiki/cookbook/project-configuration-exception-when-load-gradle-changes",
  "/wiki/cookbook/strict-mode",
  "/wiki/cookbook/unexpected-token-export",
+ "/wiki/cookbook/web-mvc-test-with-spring-security",
  "/wiki/index",
  "/wiki/javascript",
  "/wiki/javascript/module",
@@ -59,5 +60,7 @@
  "/wiki/scrum/22",
  "/wiki/scrum/23",
  "/wiki/scrum/24",
- "/wiki/scrum/25"
+ "/wiki/scrum/25",
+ "/wiki/spring-security",
+ "/wiki/spring-security/authentication-principal"
 ]

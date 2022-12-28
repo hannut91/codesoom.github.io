@@ -1,0 +1,8 @@
+{
+ "type": "wiki",
+ "title": "WebMvcTest에서 SpringSecurity 설정값 사용하기",
+ "parent": "cookbook",
+ "url": "/wiki/cookbook/web-mvc-test-with-spring-security",
+ "updated": "2022-12-23 17:30:00 +0900",
+ "children": []
+}

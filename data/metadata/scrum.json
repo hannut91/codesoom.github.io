@@ -30,6 +30,7 @@
   "scrum/22",
   "scrum/23",
   "scrum/24",
-  "scrum/25"
+  "scrum/25",
+  "spring-security/authentication-principal"
  ]
 }

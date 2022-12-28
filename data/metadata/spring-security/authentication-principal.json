@@ -1,0 +1,8 @@
+{
+ "type": "wiki",
+ "title": "스프링 시큐리티에서 @AuthenticationPrincipal를 쓰면 안 되는 이유",
+ "parent": "scrum",
+ "url": "/wiki/spring-security/authentication-principal",
+ "updated": "2022-12-28 17:52:00 +0900",
+ "children": []
+}

@@ -16,6 +16,7 @@
   "cookbook/npm-ci",
   "cookbook/project-configuration-exception-when-load-gradle-changes",
   "cookbook/strict-mode",
-  "cookbook/unexpected-token-export"
+  "cookbook/unexpected-token-export",
+  "cookbook/web-mvc-test-with-spring-security"
  ]
 }
